@@ -6,8 +6,4 @@ Based on Udemy course python for data science and machine learning bootcamp
 <p>http://faculty.marshall.usc.edu/gareth-james/</p>
 
 <h2>Jupyter Notebook (MAC OS)</h2>
-<ul>
-  <li>sudo pip uninstall notebook</li>
-  <li>sudo pip install --upgrade notebook</li>
-  <li>jupyter notebook</li>
-</ul>
+<p>https://stackoverflow.com/questions/35029029/jupyter-notebook-command-does-not-work-on-mac</p>
